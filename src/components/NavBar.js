@@ -7,6 +7,7 @@ export default function NavBar () {
             <Link style={{marginRight:'10px'}} to="/" exact> Home</Link>
             <Link style={{marginRight:'10px'}} to="/aboutus" exact> About Us</Link>
             <Link style={{marginRight:'10px'}} to="time" exact> Oppening hours</Link>
+        
         </div>
     )
 }
