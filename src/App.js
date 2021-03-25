@@ -11,7 +11,7 @@ function App() {
       <NavBar/>
       <Switch>
         <Route path="/time" component ={Time}/>
-        <Route path="/about" component ={AboutUs}/>
+        <Route path="/aboutus" component ={AboutUs}/>
         <Route path="/" component ={Home}/>
       </Switch>
     </div>
